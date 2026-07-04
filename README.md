@@ -18,7 +18,7 @@ This project presents an interactive Power BI dashboard that analyzes the Amazon
 
 ## 📊 Dashboard Preview
 
-![Dashboard](amazon_1.png)
+![Dashboard](amazon1.png)
 
 ---
 
