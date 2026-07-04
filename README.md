@@ -1,32 +1,58 @@
-Amazon Prime Content Analytics Dashboard
-Overview
+# 📊 Amazon Prime Content Analytics Dashboard
 
-This project analyzes Amazon Prime's content catalog using Power BI to uncover trends in genres, ratings, countries, release years, and content distribution.
+## 📌 Overview
 
-Tools Used
-Power BI
-SQL
-Power Query
-DAX
-Excel
-Objectives
-Analyze movie and TV show distribution
-Identify top genres
-Analyze release trends
-Explore country-wise content
-Build an interactive dashboard
+This project presents an interactive Power BI dashboard that analyzes the Amazon Prime content catalog. The dashboard provides insights into movies and TV shows, content ratings, genres, release trends, and country-wise distribution to support data-driven decision-making.
 
-Key Insights
-Movies make up most of the catalog.
-Drama and Comedy are the most common genres.
-Content additions increased significantly after 2015.
-The United States has the highest number of titles.
-Skills Demonstrated
-Data Cleaning
-ETL
-Power Query
-DAX
-Data Modeling
-Dashboard Design
-KPI Reporting
-Data Visualization
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- SQL
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](amazon_1.png)
+
+---
+
+## 📈 Key Insights
+
+- Analyzed the distribution of Movies and TV Shows.
+- Identified the most popular genres.
+- Explored content ratings across categories.
+- Examined country-wise content availability.
+- Visualized yearly content release trends using interactive charts.
+
+---
+
+## 📂 Dataset
+
+Amazon Prime Titles Dataset
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Power Query
+- DAX
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- KPI Reporting
+
+---
+
+## 🚀 Project Files
+
+- Amazon_Prime_Dashboard.pbix
+- amazon_prime_titles.csv
